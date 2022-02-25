@@ -1,0 +1,7 @@
+#a   {
+    color: rgb(20,120,80);
+}
+#a + p {
+    color: white;
+    border: 1px solid;
+}
